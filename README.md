@@ -5,6 +5,7 @@
 </p> 
 
 Le mie note/appunti personali sul PrivEsc in Linux, possono essere utili per Penetration Test e CTF. 
+prima di giugno metto anche le note per il PrivEsc in Windows.
 (sicuramente ci sono errori grammaticali)
 
 <hr>
