@@ -4,11 +4,20 @@
 <img width="300" src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/source.gif">
 </p> 
 
-Le mie note personali sul PrivEsc in Linux, sicuramente ci sono errori grammaticali.
+Le mie note/appunti personali sul PrivEsc in Linux, possono essere utili per Penetration Test e CTF. 
+(sicuramente ci sono errori grammaticali)
 
 <hr>
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
