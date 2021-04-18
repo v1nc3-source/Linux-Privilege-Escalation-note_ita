@@ -1,8 +1,10 @@
 # Linux-Privilege-Escalation ita 🇮🇹
 ### Le mie note in italiano sul privilege escalation in Linux
 
-<img width="300" src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/source.gif">
+<img width="300" src="https://user-images.githubusercontent.com/70106609/115142590-f5611c80-a042-11eb-9637-667e56b72152.png">
 </p> 
+
+
 
 
 <hr>
