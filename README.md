@@ -4,7 +4,7 @@
 <img width="300" src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/source.gif">
 </p> 
 
-Le mie note/appunti personali sul PrivEsc in Linux.
+
 <hr>
 
 
